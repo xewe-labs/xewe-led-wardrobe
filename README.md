@@ -1,3 +1,5 @@
+> Archived. Part of the XeWe LED family; see https://github.com/xewe-labs/xewe-led-os.
+
 # XeWe LED - Wardrobe — smart wardrobe lighting on an ESP8266
 
 Personal project · 2024 · Solo: Max Dokukin · Status: Completed
